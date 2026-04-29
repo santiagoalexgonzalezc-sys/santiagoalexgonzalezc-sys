@@ -1,13 +1,9 @@
 ## Hi there 👋
 
 :computer: **Ingeniero de Software en Microsfot**
-
 :pencil: **Generador de Contenido**
-
 :eyeglasses: **Geek empedernido** (aun se usa geek?)
-
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**
-
 :family: **Mas Feliz del Mundo**
 
 ### Vias de Contacto
