@@ -18,3 +18,5 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/miPlatziRepo)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/PokedexProject)
+
