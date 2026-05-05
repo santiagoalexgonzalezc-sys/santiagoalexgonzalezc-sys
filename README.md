@@ -4,9 +4,9 @@
 
 :pencil: **Generador de Contenido**
 
-:eyeglasses: **Geek empedernido** 
+:eyeglasses: **Aprendiendo** 
 
-:oncoming_automobile: **Fan de los autos, carreras y simuladores**
+:oncoming_automobile: **Fan de Los Autps**
 
 :family: **Mas Feliz del Mundo**
 
