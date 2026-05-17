@@ -20,6 +20,8 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/PokedexProject)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EscuelaDeProjectos/Online)
+
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
