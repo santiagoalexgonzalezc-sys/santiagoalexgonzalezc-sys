@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de Software en Microsfot**
+:computer: **Aprediendo**
 
-:pencil: **Generador de Contenido**
+:pencil: **Practicando**
 
-:eyeglasses: **Aprendiendo** 
+:eyeglasses: **Estudiando** 
 
-:oncoming_automobile: **Fan de Los Autps**
+:desktop_computer: **Fan de La Programacion**
 
 :family: **Mas Feliz del Mundo**
+
+:computer_mouse: **Lenguages que esto aprendiendo: JavaScript, Html, Python, and Css**
+:computer_mouse: **Sevidores y backends que esto aprendiendo: nodejs y SqlLite**
 
 ### Vias de Contacto
 
