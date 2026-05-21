@@ -2,7 +2,7 @@ name: Update README2
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 permissions:
