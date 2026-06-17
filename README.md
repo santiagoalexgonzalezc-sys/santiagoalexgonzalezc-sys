@@ -36,13 +36,13 @@
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
-2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
-3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
-4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/windsurf-project](https://github.com/santiagoalexgonzalezc-sys/windsurf-project)<br>
+3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/windsurf-project](https://github.com/santiagoalexgonzalezc-sys/windsurf-project)<br>
+4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/windsurf-project](https://github.com/santiagoalexgonzalezc-sys/windsurf-project)<br>
 5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Wednesday, June 17th, 2026, 9:06:33 PM
+Last Updated: Wednesday, June 17th, 2026, 11:24:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
