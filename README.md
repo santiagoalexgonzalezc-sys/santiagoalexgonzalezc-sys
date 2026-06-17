@@ -33,14 +33,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/windsurf-project](https://github.com/santiagoalexgonzalezc-sys/windsurf-project)<br>
-2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/SaDuMiniGames](https://github.com/santiagoalexgonzalezc-sys/SaDuMiniGames)<br>
-3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/SaDuMiniGames](https://github.com/santiagoalexgonzalezc-sys/SaDuMiniGames)<br>
-4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/SaDuMiniGames](https://github.com/santiagoalexgonzalezc-sys/SaDuMiniGames)<br>
-5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/SaDuMiniGames](https://github.com/santiagoalexgonzalezc-sys/SaDuMiniGames)<br>
+1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
+3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
+4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
+5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/MiningSimulator](https://github.com/santiagoalexgonzalezc-sys/MiningSimulator)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Tuesday, June 16th, 2026, 10:11:39 PM
+Last Updated: Wednesday, June 17th, 2026, 12:16:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
