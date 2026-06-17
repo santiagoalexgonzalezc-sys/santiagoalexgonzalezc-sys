@@ -68,13 +68,15 @@ Last Updated: Wednesday, June 17th, 2026, 9:06:33 PM
 
 ![Website](https://img.shields.io/badge/SantiagoGonzalezC.com-up-green?style=for-the-badge)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/7aComusic)
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/miPlatziRepo)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/PokedexProject)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/Snake-Multiplayer)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EscuelaDeProjectos/Online)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/windsurf-project)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/MiningSimulator)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/santiagoalexgonzalezc-sys/2d-platformer-game)
 
 
 ## :zap: Actividad reciente
