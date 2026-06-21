@@ -35,14 +35,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Simple-Chatbot](https://github.com/santiagoalexgonzalezc-sys/Simple-Chatbot)<br>
-2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Simple-Chatbot](https://github.com/santiagoalexgonzalezc-sys/Simple-Chatbot)<br>
-3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Boss-Core_Mining](https://github.com/santiagoalexgonzalezc-sys/Boss-Core_Mining)<br>
-4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Boss-Core_Mining](https://github.com/santiagoalexgonzalezc-sys/Boss-Core_Mining)<br>
-5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Boss-Core_Mining](https://github.com/santiagoalexgonzalezc-sys/Boss-Core_Mining)<br>
+1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/windsurf-project](https://github.com/santiagoalexgonzalezc-sys/windsurf-project)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/windsurf-project](https://github.com/santiagoalexgonzalezc-sys/windsurf-project)<br>
+3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/CssStudy](https://github.com/santiagoalexgonzalezc-sys/CssStudy)<br>
+4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Simple-Chatbot](https://github.com/santiagoalexgonzalezc-sys/Simple-Chatbot)<br>
+5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/Simple-Chatbot](https://github.com/santiagoalexgonzalezc-sys/Simple-Chatbot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Sunday, June 21st, 2026, 9:14:05 PM
+Last Updated: Sunday, June 21st, 2026, 11:13:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
