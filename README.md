@@ -35,14 +35,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
-2. ⬆️ Pushed undefined commit(s) to [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
-3. ⬆️ Pushed undefined commit(s) to [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
-4. ⬆️ Pushed undefined commit(s) to [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
+1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
+3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
+4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
 5. ⬆️ Pushed undefined commit(s) to [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Wednesday, July 15th, 2026, 6:07:24 PM
+Last Updated: Wednesday, July 15th, 2026, 8:08:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
