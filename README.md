@@ -35,14 +35,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
-2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
+1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
 3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
 4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
-5. ⬆️ Pushed undefined commit(s) to [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
+5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Thursday, July 16th, 2026, 8:57:48 PM
+Last Updated: Thursday, July 16th, 2026, 10:08:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
