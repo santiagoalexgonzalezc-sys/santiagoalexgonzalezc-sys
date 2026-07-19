@@ -36,13 +36,13 @@
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
-2. ⭐ Starred [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
-3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
+3. ⭐ Starred [monkeyDluzi/2B-Grd2-teacher-AI](https://github.com/monkeyDluzi/2B-Grd2-teacher-AI)<br>
 4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
-5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/pythonAiPratice](https://github.com/santiagoalexgonzalezc-sys/pythonAiPratice)<br>
+5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Sunday, July 19th, 2026, 8:48:23 PM
+Last Updated: Sunday, July 19th, 2026, 9:52:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
