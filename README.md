@@ -13,11 +13,6 @@
 :computer_mouse: **Lenguages que esto aprendiendo: JavaScript, Html, Python, and Css**
 :computer_mouse: **Sevidores y backends que esto aprendiendo: nodejs y SqlLite**
 
-## Mi juego multijugador de duelos en progreso:
-  
-  https://github.com/EscuelaDeProjectos/DotsDuelsOnline_NotDoneYet
-  https://github.com/santiagoalexgonzalezc-sys/DotsDuelsOnline
-
 ## Mi actividad en differents repositorios
 
 ![Website](https://img.shields.io/badge/SantiagoGonzalezC.com-up-green?style=for-the-badge)
@@ -60,11 +55,6 @@ Last Updated: Saturday, July 25th, 2026, 12:02:56 AM
 
 :computer_mouse: **Lenguages that i am learning: JavaScript, Html, Python, and Css**
 :computer_mouse: **Severs amd backends that I am learning: nodejs y SqlLite**
-
-## My multiplayer game about duels in progress:
-  
-  https://github.com/EscuelaDeProjectos/DotsDuelsOnline_NotDoneYet
-  https://github.com/santiagoalexgonzalezc-sys/DotsDuelsOnline
 
 ## My Activity in different Repositorys
 
