@@ -1,8 +1,9 @@
 ### Hello this is my github Profile! 
 
 :computer: **Learning**
+
 :pencil: **Debudding**
-:eyeglasses: **Studying ** 
+
 :desktop_computer: **Programming**
 
 :computer_mouse: **Lenguages that i am learning: JavaScript, Html, Python, and Css**
