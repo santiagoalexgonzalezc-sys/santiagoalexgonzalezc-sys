@@ -1,14 +1,9 @@
 ### Hello this is my github Profile! 
 
 :computer: **Learning**
-
-:pencil: **Praticing**
-
-:eyeglasses: **Studying in Platzi** 
-
-:desktop_computer: **Programmation Fan**
-
-:family: **Happiest in the wolrd. This is my favourite thing to do**
+:pencil: **Debudding**
+:eyeglasses: **Studying ** 
+:desktop_computer: **Programming**
 
 :computer_mouse: **Lenguages that i am learning: JavaScript, Html, Python, and Css**
 :computer_mouse: **Severs amd backends that I am learning: nodejs**
