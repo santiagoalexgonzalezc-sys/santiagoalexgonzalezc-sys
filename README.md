@@ -27,13 +27,13 @@
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/My-portfolio](https://github.com/santiagoalexgonzalezc-sys/My-portfolio)<br>
-2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
+2. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/My-portfolio](https://github.com/santiagoalexgonzalezc-sys/My-portfolio)<br>
 3. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
 4. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
 5. ⬆️ Pushed undefined commit(s) to [santiagoalexgonzalezc-sys/PetTrainingMinigame](https://github.com/santiagoalexgonzalezc-sys/PetTrainingMinigame)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Tuesday, October 20th, 2026, 6:56:39 PM
+Last Updated: Tuesday, October 20th, 2026, 10:10:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
